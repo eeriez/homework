@@ -1,6 +1,5 @@
 def print_params(param):
-    print(str(param)*2)
-    # или print(param, param)?
+    print(param, param)
 
 print_params(2)
 print_params('аа')
