@@ -1,4 +1,4 @@
-def test(n, *args, sum):
+def test(n, *args, sum=10):
     print(n, *args, sum)
     print()
 
